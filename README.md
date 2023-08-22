@@ -8,5 +8,5 @@
 Para regresar al Home del repositorio, use:
 
 ```
-cd /workspaces/q3.while
+cd /workspaces/t4.while
 ```
